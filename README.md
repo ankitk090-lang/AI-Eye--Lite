@@ -14,8 +14,8 @@ A lightweight, native security monitoring system for macOS that provides real-ti
 
 ```bash
 # Clone and start everything
-git clone https://github.com/YOUR_USERNAME/ai-eye-watcher.git
-cd ai-eye-watcher
+git clone https://github.com/ankitk090-lang/AI_Eye_watcher.git
+cd AI_Eye_watcher
 ./start-dev.sh
 ```
 
@@ -74,7 +74,7 @@ That's it! The script will:
 ## 📁 Project Structure
 
 ```
-ai-eye-watcher/
+aAI_Eye_watcher/
 ├── 🚀 start-dev.sh              # One-command launcher
 ├── 🛑 stop-dev.sh               # Stop all services
 ├── 📖 README.md                 # This file
